@@ -1,11 +1,7 @@
 FROM frolvlad/alpine-glibc:alpine-3.10 as build
 
-<<<<<<< HEAD
 # I just wanted tModLoader updated to the newest version. Hopefully doing this doesn't break anything
 ARG TMOD_VERSION=0.11.8 
-=======
-ARG TMOD_VERSION=0.11.8
->>>>>>> 22f5540c713a2a14c8487bbc9cce447a12af40c3
 ARG TERRARIA_VERSION=1353
 
 RUN apk update &&\
