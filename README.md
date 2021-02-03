@@ -83,8 +83,4 @@ TMOD_IDLE_CHECK_OFFSET   | 0              | This allows for sub-minute resolutio
 [directly]: https://github.com/tModLoader/tModLoader/wiki/Mod-Browser#direct-download
 [Environment Variables]: #environment-variables
 [game-manager]: https://hub.docker.com/r/rfvgyhn/game-manager/
-<<<<<<< HEAD
 [0]: https://hub.docker.com/r/rfvgyhn/tmodloader
-=======
-[0]: https://hub.docker.com/r/rfvgyhn/tmodloader
->>>>>>> 22f5540c713a2a14c8487bbc9cce447a12af40c3
