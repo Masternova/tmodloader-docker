@@ -6,15 +6,11 @@ worldname=World
 world=/terraria/ModLoader/Worlds/World.wld
 port=7777
 #password=
-motd=Please don’t cut the purple trees!
+motd=We have arrived, and it is now that we perform our charge. In fealty to the God-Emperor, our undying Lord, and by the grace of the Golden Throne, I declare Exterminatus upon the Imperial world of Typhon Primaris. I hereby sign the death warrant of an entire world, and consign a million souls to oblivion. May Imperial Justice account in all balance. The Emperor Protects.
 worldpath=/terraria/ModLoader/Worlds
-autocreate=1
+autocreate=3
 difficulty=0
 #banlist=banlist.txt
 secure=1
 #priority=0
-<<<<<<< HEAD
 #language=en/US
-=======
-#language=en/US
->>>>>>> 22f5540c713a2a14c8487bbc9cce447a12af40c3
