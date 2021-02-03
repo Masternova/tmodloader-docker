@@ -13,4 +13,8 @@ difficulty=0
 #banlist=banlist.txt
 secure=1
 #priority=0
+<<<<<<< HEAD
 #language=en/US
+=======
+#language=en/US
+>>>>>>> 22f5540c713a2a14c8487bbc9cce447a12af40c3
